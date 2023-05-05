@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'/home/lsm2718/.local/share/afl.rs/rustc-1.69.0-nightly-1e22541/afl.rs-0.12.12/afl/bin/afl-fuzz' '-i' 'in' '-o' 'out' 'target/debug/diff'
