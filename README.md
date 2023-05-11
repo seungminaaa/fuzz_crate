@@ -11,7 +11,9 @@ Those folders are from crates.io.  Those are used for fuzzing in cargo afl. All 
 each folder name is crate name. 
 
 # how to build
-$cargo afl build
+
+    $cargo afl build
 
 # how to fuzz
-#cargo afl fuzz -i [input] -o out target/debug/[binary file name] 
+
+    $cargo afl fuzz -i [input] -o out target/debug/[binary file name] 
