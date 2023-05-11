@@ -1,6 +1,6 @@
 # Installation
 You may need to install the cargo-fuzz library to get the cargo fuzz subcommand. Use
-    $ cargo install cargo-fuzz
+ '''$ cargo install cargo-fuzz'''
 cargo-fuzz is documented in the Rust Fuzz Book.
 
 # fuzz_crate
