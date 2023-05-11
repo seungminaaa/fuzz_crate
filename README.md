@@ -1,7 +1,11 @@
+# recommend version
+rustc = greater than or equal to 1.66
+
 # Installation
 You may need to install the cargo-fuzz library to get the cargo fuzz subcommand. Use
 
     $ cargo install cargo-fuzz
+    $ cargo install afl
 cargo-fuzz is documented in the Rust Fuzz Book.
 
 # fuzz_crate
